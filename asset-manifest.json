@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.894a958e.css",
-    "main.js": "/your-repo-name/static/js/main.c3e00d81.js",
-    "static/js/787.649227b4.chunk.js": "/your-repo-name/static/js/787.649227b4.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.894a958e.css.map": "/your-repo-name/static/css/main.894a958e.css.map",
-    "main.c3e00d81.js.map": "/your-repo-name/static/js/main.c3e00d81.js.map",
-    "787.649227b4.chunk.js.map": "/your-repo-name/static/js/787.649227b4.chunk.js.map"
+    "main.css": "/fs15_8-breweries-app/static/css/main.894a958e.css",
+    "main.js": "/fs15_8-breweries-app/static/js/main.9396b550.js",
+    "static/js/787.649227b4.chunk.js": "/fs15_8-breweries-app/static/js/787.649227b4.chunk.js",
+    "index.html": "/fs15_8-breweries-app/index.html",
+    "main.894a958e.css.map": "/fs15_8-breweries-app/static/css/main.894a958e.css.map",
+    "main.9396b550.js.map": "/fs15_8-breweries-app/static/js/main.9396b550.js.map",
+    "787.649227b4.chunk.js.map": "/fs15_8-breweries-app/static/js/787.649227b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.894a958e.css",
-    "static/js/main.c3e00d81.js"
+    "static/js/main.9396b550.js"
   ]
 }
